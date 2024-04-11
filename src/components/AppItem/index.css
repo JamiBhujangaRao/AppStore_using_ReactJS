@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.itemImage {
+  height: 70px;
+  width: 70px;
+}
+.appItem {
+  list-style-type: none;
+  background-color: white;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 05px;
+  border-radius: 08px;
+}
+.app-name {
+  font-size: 17px;
+  font-weight: 500;
+}
